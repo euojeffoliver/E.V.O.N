@@ -2,6 +2,9 @@
 
 └─$ cat Σ-VON.md
 
+Σ = Sigma.
+VON = Hope.
+
     ███████╗██╗   ██╗ ██████╗ ███╗   ██╗
     ██╔════╝██║   ██║██╔═══██╗████╗  ██║
     █████╗  ██║   ██║██║   ██║██╔██╗ ██║
@@ -16,6 +19,3 @@
     ┃                                    |
     ┃                                    |
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-Σ = Sigma
-VON = referência a um anime que eu amo chamado Zankyou No Terror (VON Significa “Esperança” em Islandês).
